@@ -1,9 +1,12 @@
 {
-  "name": "cs-bot",
+  "name": "nabloomingbot",
   "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "@google/generative-ai": "^0.21.0",
-    "axios": "^1.13.6",
-    "node-telegram-bot-api": "^0.64.0"
+    "axios": "^1.6.0",
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
