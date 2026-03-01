@@ -2,8 +2,8 @@
   "name": "cs-bot",
   "version": "1.0.0",
   "dependencies": {
-    "node-telegram-bot-api": "^0.64.0",
-    "@google/generative-ai": "^0.21.0"
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.13.6",
+    "node-telegram-bot-api": "^0.64.0"
   }
 }
-
